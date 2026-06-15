@@ -82,6 +82,10 @@
                     <div class="alert alert-success">{{ session('success') }}</div>
                 @endif
 
+                @if(session('error'))
+                    <div class="alert alert-error">{{ session('error') }}</div>
+                @endif
+
                 <p class="contact-form-note">We respond to every inquiry within 24 hours.</p>
 
                 <form action="{{ route('contact.store') }}" method="POST" class="contact-form">
