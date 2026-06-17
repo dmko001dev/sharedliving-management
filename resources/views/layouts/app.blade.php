@@ -83,7 +83,7 @@
             <div class="footer-contact">
                 <h4>Contact</h4>
                 <ul>
-                    <li>628 Maple Dr, Cincinnati, OH 45011</li>
+                    <li>628 Maple Dr Cincinnati OH 45215</li>
                     <li><a href="tel:+15135710154">(513) 571-0154</a></li>
                 </ul>
             </div>

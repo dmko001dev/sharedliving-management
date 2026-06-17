@@ -52,7 +52,7 @@
                             </span>
                             <div class="contact-info-body">
                                 <strong>Location</strong>
-                                <span class="contact-detail">628 Maple Dr, Cincinnati, OH 45011</span>
+                                <span class="contact-detail">628 Maple Dr Cincinnati OH 45215</span>
                             </div>
                         </li>
                         <li>

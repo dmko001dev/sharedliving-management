@@ -278,7 +278,7 @@
                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 21s-8-4.5-8-11a8 8 0 1116 0c0 6.5-8 11-8 11z"/><circle cx="12" cy="10" r="3"/></svg>
                 </div>
                 <h3>Address</h3>
-                <p>628 Maple Dr<br>Cincinnati, OH 45011</p>
+                <p>628 Maple Dr Cincinnati OH 45215</p>
             </div>
             <div class="contact-card">
                 <div class="contact-icon">
