@@ -101,6 +101,7 @@
         <div class="footer-bottom">
             <div class="container">
                 <p>&copy; {{ date('Y') }} Shared Living Management. All rights reserved.</p>
+                <p>Created by <a href="https://www.kodjema.com" target="_blank" rel="noopener">Kodjema</a></p>
             </div>
         </div>
     </footer>
